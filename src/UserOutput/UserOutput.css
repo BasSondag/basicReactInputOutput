@@ -1,0 +1,8 @@
+.UserOutput {
+  border: 2px solid green;
+  width: 700px;
+  margin:10px auto;
+  height: 30px;
+  padding: 5px;
+  vertical-align: middle;
+}
